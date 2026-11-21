@@ -1,37 +1,19 @@
-<h1 align="center">Hi 👋, I'm Hamza</h1>
+<img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/assets/header.svg" alt="Hamza, software engineer" width="100%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=450&lines=BSSE+Student+%7C+Full-Stack+Developer;MERN+Stack+Developer;Learning+AI%2FML" alt="Typing SVG" />
-</p>
+I'm a software engineer. I design and ship full-stack products, with a growing focus on machine learning and data systems.
 
-## 🚀 About me
-- 🎓 BS Software Engineering student at the University of Lahore
-- 💻 Building web apps with the MERN stack
-- 🌱 Currently learning AI/ML
-- 📫 Reach me: hamzayar70@gmail.com
+<img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/assets/terminal.svg" alt="Terminal output: whoami, current focus, projects" width="100%">
 
-## 🛠 Tech stack
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/assets/stack.svg" alt="Tech stack" width="100%">
 
-## 📊 GitHub stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzayar13&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzayar13&layout=compact&theme=tokyonight" />
-</p>
+## Selected work
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=hamzayar13&theme=tokyonight" />
-</p>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| Freelancing Marketplace | Three-role marketplace (client, freelancer, admin) with proposals, contracts, messaging and an admin dashboard | React, Node.js, Express, MongoDB, Socket.IO |
+| Rental Platform | Airbnb-style listings platform built for a database course, deployed on Railway | Node.js, Express, MySQL, EJS, Tailwind CSS |
+| Job Application Tracker | Tracks applications and their status with client-side state management | React 19, Redux Toolkit, React Router 7 |
 
-## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzah-yar-2b35b4305)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzayar70@gmail.com)
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/hamzah-yar-2b35b4305) · [hamzayar70@gmail.com](mailto:hamzayar70@gmail.com)
