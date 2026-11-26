@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/header.svg" alt="Hamza, software engineer" width="100%">
+<a href="https://github.com/hamzayar13?tab=repositories"><img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/header.svg" alt="Hamza, software engineer" width="100%"></a>
 
-<img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/story.svg" alt="Animated illustration of a developer building, debugging, shipping and learning machine learning" width="100%">
+<a href="https://www.linkedin.com/in/hamzah-yar-2b35b4305"><img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/story.svg" alt="Animated illustration of a developer who slams his hand down and the caption changes: building, debugging, shipping, learning machine learning" width="100%"></a>
 
 I'm a software engineer. I design and ship full-stack products, with a growing focus on machine learning and data systems.
 
-<img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/terminal.svg" alt="Terminal output: whoami, current focus, projects" width="100%">
+<a href="https://github.com/hamzayar13?tab=repositories"><img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/terminal.svg" alt="Terminal output: whoami, current focus, projects" width="100%"></a>
 
-<img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/stack.svg" alt="Tech stack" width="100%">
+<a href="https://github.com/hamzayar13?tab=repositories"><img src="https://raw.githubusercontent.com/hamzayar13/hamzayar13/main/stack.svg" alt="Tech stack" width="100%"></a>
 
 ## Selected work
 
